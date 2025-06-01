@@ -3,7 +3,7 @@
 ---
 
 ![Mutility Screenshot](https://raw.githubusercontent.com/llllmithulllll/Mutility/main/Mutility.png)
-*(Self-correction: Assuming the user might have a screenshot. If not, this line can be removed or replaced with a placeholder.)*
+
 
 ## Introduction
 
