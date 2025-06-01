@@ -2,7 +2,7 @@
 
 ---
 
-![Mutility Screenshot](https://raw.githubusercontent.com/llllmithulllll/Mutility/main/Mutility.png)
+![Mutility Screenshot](https://raw.githubusercontent.com/llllmithulllll/Mutility/Mutility.png)
 
 
 ## Introduction
